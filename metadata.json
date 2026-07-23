@@ -1,0 +1,6 @@
+{
+  "name": "TEMP VPN",
+  "description": "TEMP VPN - Global eSIM mobile data plans, international virtual phone numbers for SMS verification (WhatsApp, Facebook, TikTok), VOIP dialer, and high-speed secure VPN.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
